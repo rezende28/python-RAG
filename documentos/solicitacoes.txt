@@ -1,0 +1,5 @@
+
+As solicitações podem ser realizadas por e-mail ou presencialmente.
+O solicitante deve informar o número do protocolo.
+Uma solicitação pode ser cancelada antes de seu processamento.
+O sistema não deve inventar informações que não estejam nos documentos disponíveis.
