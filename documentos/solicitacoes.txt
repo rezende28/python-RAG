@@ -1,5 +1,8 @@
+[Documentação Necessária - Próprio Paciente]
+Para a retirada de cópia de prontuário pelo próprio titular, é obrigatória a apresentação de documento de identidade oficial com foto (RG ou CNH) e o preenchimento do formulário padrão de solicitação assinado.
 
-As solicitações podem ser realizadas por e-mail ou presencialmente.
-O solicitante deve informar o número do protocolo.
-Uma solicitação pode ser cancelada antes de seu processamento.
-O sistema não deve inventar informações que não estejam nos documentos disponíveis.
+[Solicitação por Terceiros ou Representante Legal]
+Caso o pedido seja feito por um terceiro (familiar ou procurador), é necessário apresentar: procuração pública ou particular com firma reconhecida, documento de identidade do paciente (cópia) e documento de identidade do representante (original e cópia).
+
+[Solicitação em caso de Paciente Falecido]
+Na hipótese de solicitação de prontuário de paciente falecido, o pedido deve ser feito obrigatoriamente por cônjuge/companheiro(a) ou parentes consanguíneos em linha reta (filhos, pais), mediante comprovação de parentesco (certidão de óbito e documentos de identidade) e justificativa fundamentada.

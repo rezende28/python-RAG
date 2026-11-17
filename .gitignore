@@ -1,20 +1,12 @@
-
-# Ambiente virtual
+# Ambiente virtual do Python
 venv/
-.venv/
 env/
+.venv/
 
 # Cache do Python
 __pycache__/
-*.py[cod]
+*.pyc
 
-# Arquivos de configuração local
-.env
-
-# Configurações de editores
-.vscode/
-.idea/
-
-# Arquivos do sistema
+# Arquivos de sistema operacional
 .DS_Store
 Thumbs.db

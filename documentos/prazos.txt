@@ -1,4 +1,8 @@
+[Prazo de Atendimento Padrão]
+O prazo regular para a localização e disponibilização de prontuários médicos solicitados por pacientes ou representantes legais é de até 5 (cinco) dias úteis contados a partir da data do protocolo do pedido no setor de arquivo.
 
-O prazo padrão para disponibilizar um documento administrativo é de 5 dias úteis.
-Solicitações complexas podem exigir prazo adicional.
-O prazo começa a contar após o registro completo da solicitação.
+[Prontuários para Perícia ou Urgência Judicial]
+Solicitações com caráter de urgência judicial ou para instrução de perícias médicas possuem prioridade máxima. O prazo de entrega nesses casos é de até 24 (vinte e quatro) horas úteis mediante apresentação do mandado ou ofício do juiz.
+
+[Prontuários Antigos (Acervo Histórico)]
+Prontuários anteriores ao ano de 2010 encontram-se arquivados no formato físico em depósito externo. O prazo para recuperação e digitalização desses documentos é de até 10 dias úteis.
